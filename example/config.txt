@@ -1,0 +1,2 @@
+Prefix plugins/DNAAnnotate/example/
+Plugin DNAAnnotate inputfile fullRegions.rds outputfile annotate.DNA.region.csv
